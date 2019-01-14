@@ -2,10 +2,10 @@
 baseurl = "http://www.bestcameranews.com"
 
 # Site title
-title = "sitename"
+title = "Best Camera News"
 
 # Copyright
-copyright = "(c) 2015 yourname."
+copyright = "(c) 2019 Best Camera News"
 
 # Language
 languageCode = "en-EN"
